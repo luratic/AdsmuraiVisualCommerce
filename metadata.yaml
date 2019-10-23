@@ -1,6 +1,4 @@
 homepage: "https://github.com/precariostecnicos"
 documentation: "https://github.com/precariostecnicos/AdsmuraiVisualCommerce/blob/master/Integration%20Guide%20(Pixel%20%20Gallery)%20-%20Visual%20Commerce%201.3.pdf"
 versions:
-  # Latest version
-  - sha: 4f1c1ad8f6be42e4a30ead7bcc2f2f96dc4880b8
-    changeNotes: Initial release.
+  - sha: f1fa320ed56a89414285f5ed6cc3dbf1fba4fb6d
