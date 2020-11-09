@@ -431,7 +431,6 @@ const accountId = data.accountId;
 log('data =', data);
 var AdsmuraiTracking = copyFromWindow('AdsmuraiTracking');
 const onSuccess = () => {
-  var AdsmuraiTracking2 = copyFromWindow('AdsmuraiTracking');
   callInWindow('AdsmuraiTracking.prototype.constructor', data.accountId);
   if (data.registerPageViewEvent) {
     callInWindow('AdsmuraiTracking.prototype.registerPageViewEvent');
