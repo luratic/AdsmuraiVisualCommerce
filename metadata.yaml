@@ -1,5 +1,11 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/adsmurai-visual-commerce/"
 versions:
+  # Latest version
+  - sha: 14eacb013f939f4eb095263f0a5f5de8f91ffd8b
+    changeNotes: |2
+      Fix bugs.
+      Improve and update documentation.
+  # Older versions
   - sha: cc37dc90b12a5615dbf11db4c4328b86948793f3
     changeNotes: Initial release.
